@@ -1,0 +1,68 @@
+ ,Category,Sub Category,Question Text,Option 1,Option 2,Option 3,Option 4,Option 5,Answer,Points,Status,CreatedAt,UpdatedAt,Picture Url
+"
+                        ",EXLAT,Domain,What is gem?,rails generate scaffold User name:string email:string,self-contained packages of Ruby code,self-contained bundles of gems. Useful for versioning.,Ruby Version Manager. Install and manage multiple versions of Ruby,,,1,Active,20-04-2021,,
+"
+                        ",EXLAT,Domain,What is rvm?,rails generate scaffold User name:string email:string,Ruby Version Manager. Install and manage multiple versions of Ruby.,self-contained bundles of gems. Useful for versioning.,self-contained packages of Ruby code,,,1,Active,20-04-2021,,
+"
+                        ",EXLAT,Domain,"What does ""show"" refer to as the :action value?",the method within the controller to call,"HTTP methods (post, get, put, delete)",the data being presented by the web page,their names begin with an underscore,,,1,Active,20-04-2021,,
+"
+                        ",EXLAT,Domain,What comes after <% form_for()... ?,"redirect_to "" ... """,the request parameters table,<%= f.text_field :name %>,"do |f| (where ""f"" can be anything)",,,1,Active,20-04-2021,,
+"
+                        ",EXLAT,Domain,.,27,0,8,10,,,1,Active,20-04-2021,,https://drive.google.com/uc?id=1oFlKIjhvo4jy7HYXwC-s3HHBuJ-6YL7T
+"
+                        ",EXLAT,Domain,"In the following syntax, the data type within the square brackets must be ___________
+
+book[datatype]=assignment_value;",An object,An integer,A String,Floating Point,,,1,Active,20-04-2021,,
+"
+                        ",EXLAT,Domain,Which of the following is supported by Ruby?,Multiple Programming Paradigms,Dynamic Type System,Automatic Memory Management,All of the above,,,1,Active,20-04-2021,,
+"
+                        ",EXLAT,Domain,"What is the output of the given code?
+
+counter = 2
+while counter < 68
+  puts counter
+  counter**=2
+  end",2 4 16 64,2 4 16,2 4 16 256,None of the above,,,1,Active,20-04-2021,,
+"
+                        ",EXLAT,Domain,"What will be the output of the following Python code?
+
+x = ['ab', 'cd']
+for i in x:
+    i.upper()
+print(x)","[‘ab’, ‘cd’]","[‘AB’, ‘CD’]","[None, None]",None of the above,,,1,Active,20-04-2021,,
+"
+                        ",EXLAT,Domain,"What will be the output of the following Python code?
+
+i = 1
+while False:
+    if i%2 == 0:
+        break
+    print(i)
+    i += 2",1,1 3 5 7 …,1 2 3 4 …,None of the above,,,1,Active,20-04-2021,,
+"
+                        ",EXLAT,Domain,How many classes does bootstrap grid system has?,3,2,1,4,,,1,Active,20-04-2021,,
+"
+                        ",EXLAT,Domain,Which method is not used for traversing DOM tree?,parent(),parentsUntil(),parents(),after(),,,1,Active,20-04-2021,,
+"
+                        ",EXLAT,Domain,AJAX is not used in _____________,Gmail,Youtube,Facebook,Yahoo,,,1,Active,20-04-2021,,
+"
+                        ",EXLAT,Domain,Which SQL function is used to count the number of rows in a SQL query?,COUNT(),NUMBER(),SUM(),COUNT(*),,,1,Active,20-04-2021,,
+"
+                        ",EXLAT,Domain,Which SQL keyword is used to retrieve a maximum value?,MOST,TOP,MAX,UPPER,,,1,Active,20-04-2021,,
+"
+                        ",EXLAT,Domain,Which of the following are TCL commands?,UPDATE and TRUNCATE,SELECT and INSERT,GRANT and REVOKE,ROLLBACK and SAVEPOINT,,,1,Active,20-04-2021,,
+"
+                        ",EXLAT,Domain,________________ is not a category of SQL command.,TCL,SCL,DCL,DDL,,,1,Active,20-04-2021,,
+"
+                        ",EXLAT,Domain,Which is invalid in python for z = 5 ?,z = z++,z = z + 2,+= 1,z -= 1,,,1,Active,20-04-2021,,
+"
+                        ",EXLAT,Domain,"When the given code is executed how many times ' 'you are learning python ' ' will be printed.
+
+a = 0
+while a<10:
+… print(''you are learning python'')
+… pass",9,10,11,Infinite number of times,,,1,Active,20-04-2021,,
+"
+                        ",EXLAT,Domain,"What is output of following −
+
+print(''abbzxyzxzxabb''.count(‘abb’,-10,-1))",2,0,1,Error,,,1,Active,20-04-2021,,
